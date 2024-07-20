@@ -1,0 +1,11 @@
+D:\Projects\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe.config
+D:\Projects\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe
+D:\Projects\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.pdb
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.AssemblyReference.cache
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Form1.resources
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Properties.Resources.resources
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.GenerateResource.cache
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.CoreCompileInputs.cache
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.exe
+D:\Projects\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.pdb
